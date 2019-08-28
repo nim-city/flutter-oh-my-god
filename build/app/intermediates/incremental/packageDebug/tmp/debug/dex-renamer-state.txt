@@ -1,0 +1,4 @@
+#Mon Jul 29 10:27:08 PDT 2019
+base.0=/Users/owl/Desktop/Personal/Flutter/Oh My God/oh_my_god/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

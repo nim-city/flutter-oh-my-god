@@ -1,0 +1,10 @@
+com.nimishnarang.oh_my_god
+drawable ic_launcher_background
+drawable launch_background
+drawable oh_my_god_smaller
+drawable oh_my_god_title
+drawable oh_my_god_title_screen_image
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+style LaunchTheme
